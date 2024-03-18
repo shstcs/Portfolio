@@ -15,7 +15,7 @@
 ## 팀 프로젝트
 ### 1. Beat Rush
 > ![Beat Rush](https://github.com/shstcs/Beat-Rush/assets/73222781/0c086a22-529a-4d60-ac1f-fb1d919a69d3)
-> - 2024.01 ~ 2024.03  
+> - 2024.01 - 2024.03  
 > - 3D Lowpoly One-Button Rhythm Action  
 > - 사용 기술 : Addressable, Object Pool, FSM, Strategy Pattern, InputAction etc..
 > - 구현한 부분 : Note, Sync, Monster  
@@ -23,7 +23,7 @@
 
 ### 2. Escape Protocol
 > ![Escape Protocol](https://github.com/shstcs/Portfolio/assets/73222781/8451170c-892d-4a5f-a682-84019d10c539)
-> - 2024.12-2024.12  
+> - 2023.12 - 2023.12  
 > - TPS Puzzle Horror
 > - 사용 기술 : Nevmesh, FSM, Singleton, Raycast etc..
 > - 구현한 부분 : Manager, UI
@@ -31,8 +31,16 @@
 
 ### 3. Skul Soul
 >![Skul Soul](https://github.com/shstcs/Beat-Rush/assets/73222781/2dfdbfd6-fed0-4bc0-b492-1a2fb7749be0)
-> - 2024.12-2024.12
-> - 2D platformer RougeLike Shooter
+> - 2023.12 - 2023.12
+> - 2D platformer Rougelike Shooter
 > - 사용 기술 : FSM, Random Map
 > - 구현한 부분 : Monster AI, Animation
 > - [Skul soul 정보](https://github.com/shstcs/RogueLike)
+
+### 4. 십(장생)과 함께
+>![With SJS](https://github.com/shstcs/Portfolio/assets/73222781/4a68171b-ed16-4d92-a74a-ee8d6fcc01c3)
+> - 2023.11 - 2023.12
+> - 2D Storytelling Action Rougelike Dodge
+> - 사용 기술 :
+> - 구현한 부분 : UI
+> - [십(장생)과 함께 정보](https://github.com/shstcs/SIPJANGSEANG)
