@@ -51,7 +51,7 @@
 >![Space.io](https://github.com/shstcs/Portfolio/assets/73222781/419f5d6d-dace-49ad-a018-7e116a9c22f2)
 > - 2020.10 - 2020.12 (3 months)
 > - 3D Online Spaceship Shooting
-> - 사용 기능 : Raycast, Photon Pun2, WebGL
+> - 사용 기능 : Raycast, Photon Pun2
 > - 구현한 부분 : Photon, UI
 > - [Space.io Repository](https://github.com/shstcs/Space.io)
 
